@@ -1,1 +1,1 @@
-# ml-project-boilerplate
+# Boilerplate for ML projects
